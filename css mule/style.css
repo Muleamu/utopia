@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: cadetblue;
+}
+b{
+    color: #1b2e30;
+}
+
+ h1{
+    color: aqua;
+    text-align: center;
+ }
+  h2{
+    color:blue;
+    background-color: antiquewhite;
+    border: solid 2px cadetblue;
+  }
+  .d{
+    background-color: dimgray;
+    width: 1295px;
+    height: 350px;
+    border: solid 10px rgb(34, 97, 139);
+  }
+  .d1{
+    background-color: lightgray;
+    position: relative;
+    width: 200px;
+    border: dotted 5px rgb(30, 171, 210);
+    padding: 10px;
+    top: 13px;
+    left: 15px;
+  }
+  .d2{
+    background-color: lightgray;
+    position: relative;
+    width: 200px;
+    border: dotted 5px rgb(30, 171, 210);
+    padding: 10px;
+    left: 270px;
+    bottom: 125px;
+  }
+  .d3{
+    background-color: lightgray;
+    position: relative;
+    width: 200px;
+    border: dotted 5px rgb(30, 171, 210);
+    padding: 10px;
+    left: 525px;
+    bottom: 246px;
+  }
+  .d4{
+    background-color: lightgray;
+    position: relative;
+    width: 200px;
+    border: dotted 5px rgb(30, 171, 210);
+    padding: 10px;
+    left: 780px;
+    bottom: 365px;
+   
+  }
+  .d5{
+    background-color: lightgray;
+    position: relative;
+    width: 200px;
+    border: dotted 5px rgb(30, 171, 210);
+    padding: 10px;
+    bottom: 500px ;
+    left: 1030px;
+  }
+  .bgimage{
+    width: 400px;
+    height: 400px;
+   border-radius: 50%;
+  }
